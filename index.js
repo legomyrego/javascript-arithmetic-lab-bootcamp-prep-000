@@ -32,5 +32,14 @@ return parseInt(a, 10)
 }
 
 function makeInt(a) {
-  return parseInt(a)
+  return parseInt(a, 10)
 }
+
+
+function isNan(makeInt(a)) {
+  return parseInt(a, 10)
+}
+
+function preserveDecimal(a) {
+  return parseFloat(a)
+} 
